@@ -1,0 +1,10 @@
+  inCaps = new JButton("IN CAPS");
+        inSmall = new JButton("IN SMALL");
+        convertCase = new JButton("CONVERT CASE");
+        words = new JButton("WORDS");
+        letters = new JButton("LETTERS");
+        reverse = new JButton("REVERSE");
+        vowels = new JButton("VOWELS");
+        frequency = new JButton("FREQUENCY");
+        beginCaps = new JButton("BEGIN CAPS");
+        reset = new JButton("RESET");
